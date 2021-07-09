@@ -1,0 +1,41 @@
+*{
+    margin: 0px auto;
+}
+body{
+    background: url(../img/pexels-alex-conchillos-3745234.jpg)no-repeat;
+    background-size:cover;
+}
+.container{
+    width: 640px;
+    margin: 25%;
+    background-color: whitesmoke;
+   
+    border: whitesmoke;
+}
+
+.login-section{
+    margin: 0px auto;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+.login-section h1{
+        text-align: center;
+    font-size: 40px;
+}
+.form-control{
+      height: 50px;
+    width: 500px;
+    margin: auto;
+}
+.btn{
+         background-color: teal;
+    height: 50px;
+    width: +;
+    margin: auto;
+    color: white;
+     
+    text-transform: uppercase;
+    text-align:right;
+}
